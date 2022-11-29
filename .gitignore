@@ -129,4 +129,3 @@ dmypy.json
 .pyre/
 
 #advent of code source
-day*.txt
